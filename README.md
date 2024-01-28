@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Ally Chimerah</h1>
+<h1 align="left">Hello 👋, I'm Ally Chimerah</h1>
 <h5 align="left" opacity="0.5">A self driven and passionate frontend developer.</h5>
 <h3 align="left">What I do</h3>
-<img align="right" width="400"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT">
+<img align="right" width="300" height="200"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT">
 
 - 🔭 I usually work on [frontend web projects](https://zendayat.github.io/Zencraizee)
 
