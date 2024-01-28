@@ -9,7 +9,7 @@
 
 - 🌱 I’m also going into **Mobile app development with React Native**
 
-- 👨‍💻 All of my projects are available at [https://zendayat.github.io/Zencraizee](https://zendayat.github.io/Zencraizee)
+- 👨‍💻 You can check out some of my projects are available at [https://zendayat.github.io/Zencraizee](https://zendayat.github.io/Zencraizee)
 
 - 💬 Ask me about **Android,MERN**
 
