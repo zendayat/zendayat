@@ -1,8 +1,11 @@
+<img src="https://media.licdn.com/dms/image/D4D16AQFsEEZb7lOh9w/profile-displaybackgroundimage-shrink_350_1400/0/1706430412143?e=1712188800&v=beta&t=q_MEHLnZzF9qF1GFVEyQWxG3Gr1TPPW-raSyXJ9Hrb0"/>
 <h1 align="left">Hello 👋, I'm Ally Chimerah</h1>
-<h5 align="left" opacity="0.5">A self driven and passionate frontend developer.</h5>
+<h5 align="left" opacity="0.5">Frontend Developer</h5>
 <h3 align="left">What I do</h3>
 <img align="right" width="300" height="200"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT">
 
+- 🔭I am a self driven and passionate Frontend Developer with a general deep interest in tech
+  
 - 🔭 I usually work on [frontend web projects](https://zendayat.github.io/Zencraizee)
 
 - 👯 I’m currently actively moving into **fullstack web development**
