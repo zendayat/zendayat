@@ -7,19 +7,20 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20developer;Digital%20Craftsman;6%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 <h3 align="center">What I do</h3>
-<img align="right" width="300" height="200"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT">
+<!-- <img align="r" width="300" height="200"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT"/> -->
 
 - 🔭I am a self driven and passionate Frontend Developer with a general deep interest in tech
   
-- 🔭 I usually work on [frontend web projects](https://zendayat.github.io/Zencraizee)
+- 🔭 With regards to Frontend development, I have a number of personal projects that I worked on to better my skills. Below are some of those. Majority of my projects are built ground up, from the ideas, to the mental schema, to the sketches and design and to finally bringing all that to life. On the other hand,the rest of them are usually taken from inspiration i find on the general web. The reason i practice on developing websites and apps inspired elsewhere is to train myself to be able to stick to the design without the possibility of me changing anything. It can be a bit challenging but i feel like it prepares me to always be ready to work with professional teams. Overall and in my eyes, the whole process is exhilarating and i love every second of it.
+
+- 👨‍💻 You can check out some of my projects are available at [https://zendayat.github.io/Zencraizee](https://zendayat.github.io/Zencraizee)
+
+
+<h3 align="center">A little more about me:</h3>
 
 - 👯 I’m currently actively moving into **fullstack web development**
 
 - 🌱 I’m also going into **Mobile app development with React Native**
-
-- 👨‍💻 You can check out some of my projects are available at [https://zendayat.github.io/Zencraizee](https://zendayat.github.io/Zencraizee)
-
-- 💬 Ask me about **Android,MERN**
 
 - 📫 How to reach me **nmapzendaya@gmail.com**
 
