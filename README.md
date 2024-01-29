@@ -1,7 +1,12 @@
 <a href="https://www.linkedin.com/in/ally-chimerah/"><img src="https://media.licdn.com/dms/image/D4D16AQFsEEZb7lOh9w/profile-displaybackgroundimage-shrink_350_1400/0/1706430412143?e=1712188800&v=beta&t=q_MEHLnZzF9qF1GFVEyQWxG3Gr1TPPW-raSyXJ9Hrb0"/></a>
 <h1 align="center">Hello 👋, I'm Ally Chimerah</h1>
 <h5 align="center">Frontend Developer</h5>
-<h3 align="left">What I do</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20developer;Digital%20Craftsman;6%2B%20years%20of%20coding%20experience;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+<h3 align="center">What I do</h3>
 <img align="right" width="300" height="200"  src="https://img.freepik.com/premium-photo/sticker-boy-coding-computer-anim-creative-design-bold-line-cute-kawaii-style_655090-455715.jpg" alt="I CODE ALOT">
 
 - 🔭I am a self driven and passionate Frontend Developer with a general deep interest in tech
